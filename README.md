@@ -3,5 +3,5 @@
 ### Manuals
 
 - Anaconda
-- Rebound
+- [Rebound](manuals/rebound.md)
 - Pluto
