@@ -1,4 +1,6 @@
-### [Rebound](https://rebound.readthedocs.io/en/latest/) installation
+# [Rebound](https://rebound.readthedocs.io/en/latest/)
+## A simple guide for installation on GNU/Linux OS (ubuntu based distros)
+
 
 Install git:
 
@@ -18,7 +20,7 @@ Then clone rebound source code repository:
 
 Go to an example:
 
-`cd rebound/examples/shearing_sheet`
+`cd rebound/examples/selfgravity_plummer`
 
 Now compile and make the code:
 
