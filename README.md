@@ -4,4 +4,4 @@
 
 - Anaconda
 - [Rebound](manuals/rebound.md)
-- Pluto
+- [Pluto](https://github.com/nghafourian/test/blob/master/Pluto.md)
