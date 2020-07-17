@@ -29,3 +29,5 @@ Now compile and make the code:
 And Finally run the code:
 
 `./rebound`
+
+Please also see [here](https://github.com/hannorein/rebound/blob/master/doc/c_quickstart.rst) for a more detailed user guide.
