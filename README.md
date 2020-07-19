@@ -8,4 +8,4 @@
 
 ### codes
 
-- [Pluto](codes/PLUTO.tar.gz)
+- [Pluto](codes/PLUTO.tar.gz). The code contains a fix related to a typo in `PLUTO/Tools/Python/define_problem.py` that causes problem for it to work with python 3.x.
