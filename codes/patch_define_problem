@@ -1,0 +1,15 @@
+--- PLUTO/Tools/Python/define_problem.py	2018-06-12 15:57:56.000000000 +0430
++++ PLUTO/Tools/Python/define_problem_new.py	2020-07-12 07:04:51.107433678 +0430
+@@ -819,10 +819,10 @@
+         l2 = nlist[lindx1:]
+         opBracket = 0
+         clBracket = 0
+-	addIndx   = 0
++        addIndx   = 0
+         for item in l2:
+           line = item.split()
+-	  addIndx += 1
++          addIndx += 1
+           if ((len(line) > 0) and (line[0] !='*')):
+             for w in line:
+               if "{" in list(w): opBracket += 1
