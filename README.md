@@ -5,6 +5,7 @@
 - [Anaconda](https://github.com/Shenavar/Anaconda-Installation.md/blob/master/Anaconda%20Installation.md)
 - [Rebound](manuals/rebound.md)
 - [Pluto](https://github.com/nghafourian/test/blob/master/Pluto.md)
+- [fft (Fast Fourier transform)](https://github.com/Shenavar/Anaconda-Installation.md/blob/master/fftw3.md)
 
 ### codes
 
