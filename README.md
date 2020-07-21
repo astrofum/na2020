@@ -10,3 +10,7 @@
 ### codes
 
 - [Pluto](http://plutocode.ph.unito.it/). Please note that we found a typo in the official code v. 4.3. that causes problem for it to work with python 3.x. We have prepared a [fix](codes/patch_define_problem) that solves this issue. You can download this fixed version from [here](https://github.com/astrofum/na2020/raw/master/codes/PLUTO.tar.gz).
+
+### BigBlueButton(BBB)
+
+- Please check the [BBB manual](https://github.com/astrofum/na2020/blob/master/BigBlueButton.pdf) to get familiar with the platform.  
