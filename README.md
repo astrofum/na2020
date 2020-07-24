@@ -11,6 +11,9 @@
 
 - [Pluto](http://plutocode.ph.unito.it/). Please note that we found a typo in the official code v. 4.3. that causes problem for it to work with python 3.x. We have prepared a [fix](codes/patch_define_problem) that solves this issue. You can download this fixed version from [here](https://github.com/astrofum/na2020/raw/master/codes/PLUTO.tar.gz).
 
+### Materials sent by Prof. Kley
+-All materials provided by Prof. Kley, including a basic introduction to numerical hydrodynamics, a project focused on linear advection, and some background on programming languages are provided [here](https://www.tat.physik.uni-tuebingen.de/~kley/talks/mashad/index.html)
+
 ### BigBlueButton(BBB)
 
 - Please check the [BBB manual](https://github.com/astrofum/na2020/blob/master/BigBlueButton.pdf) to get familiar with the platform.  
