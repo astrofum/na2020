@@ -35,10 +35,4 @@ Please also see [here](https://github.com/hannorein/rebound/blob/master/doc/c_qu
 
 ## How to install rebound on Windows 10 by Christoph Schaefer
 
-We are thankful to Prof. Christoph Schaefer for providing this manual on how to install rebound on Windows 10.
-
-<object data="https://github.com/astrofum/na2020/blob/master/how_to_install_rebound_on_win10%20by%20Christoph%20Schaefer.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/astrofum/na2020/blob/master/how_to_install_rebound_on_win10%20by%20Christoph%20Schaefer.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/astrofum/na2020/blob/master/how_to_install_rebound_on_win10%20by%20Christoph%20Schaefer.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+We are thankful to [Prof. Christoph Schaefer](https://www.tat.physik.uni-tuebingen.de/~schaefer/) for providing this manual on how to install rebound on Windows 10. You may simply click [here](https://github.com/astrofum/na2020/blob/master/how_to_install_rebound_on_win10%20by%20Christoph%20Schaefer.pdf) to download the manual.
