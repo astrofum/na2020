@@ -17,7 +17,7 @@
 -The [Pyro Hydro Code](https://pyro2.readthedocs.io/en/latest/).
 
 ### Materials sent by Prof. Schäfer
-- All the materials sent by [Prof. Christoph Schäfer](https://www.tat.physik.uni-tuebingen.de/~schaefer/) for the crash course, including slides and exercises, plus an introduction to N-Body Simulations with REBOUND, could be found [here](https://www.tat.physik.uni-tuebingen.de/~schaefer/teach/fum2020/).
+- All the materials sent by [Dr. Christoph Schäfer](https://www.tat.physik.uni-tuebingen.de/~schaefer/) for the crash course, including slides and exercises, plus an introduction to N-Body Simulations with REBOUND, could be found [here](https://www.tat.physik.uni-tuebingen.de/~schaefer/teach/fum2020/).
 
 
 ### BigBlueButton(BBB)
