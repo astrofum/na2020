@@ -38,7 +38,7 @@ Check if this is created
 
 THIS INSTALLS the new version. 
 
-- Getting Started
+- Getting Started:
 
 Go to the folder where you have data files with *.out files and open the python 3 prompt. 
 
