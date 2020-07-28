@@ -23,7 +23,7 @@
 ### Materials sent by Dr. Bhargav Vaidya
 - Here are the materials and explanations sent by [Dr. Bhargav Vaidya](http://www.iiti.ac.in/people/~bvaidya/index.html): 
 
-In this [link](https://github.com/astrofum/na2020/blob/master/PLUTO_4.3_Mashhad2020.tar.gz), you will find the tar ball of the PLUTO v4.3 code to be installed for the students in the school.
+In this [link](https://github.com/astrofum/na2020/blob/master/PLUTO_4.3_Mashhad2020.tar.gz) you will find the tar ball of the PLUTO v4.3 code to be installed for the students in the school ( if you haven't installed PLUTO already ).
 
 Also pyPLUTO compatible for python >3.6 is present in Tools/pyPLUTO/pyPLUTO_v3.tar.gz 
 
