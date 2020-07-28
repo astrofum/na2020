@@ -37,8 +37,10 @@ Step 2:  Untar the pyPLUTO_v3.tar.gz file using the command : tar -xvzf pyPLUTO_
 
 Step 3:  Now run the command - python setup.py install —user
 
-Step 4: This shall create some additional files and folders. But most important it will create a file 
+Step 4: This shall create some additional files and folders. But most important it will create a file
+```sh
 $PYTHONPATH/pyPLUTO_v3-4.4.1-py3.7.egg
+````
 
 Check if this is created 
 
