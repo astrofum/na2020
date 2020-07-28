@@ -4,7 +4,7 @@ Also pyPLUTO compatible for python >3.6 is present in Tools/pyPLUTO/pyPLUTO_v3.t
 
 Please install the pyPLUTO following the below steps:
 
-- How to INSTALL:
+**How to INSTALL:**
 
 Step 1 : Go to Tools/pyPLUTO folder in $PLUTO_DIR
 
@@ -21,7 +21,7 @@ Check if this is created
 
 THIS INSTALLS the new version. 
 
-- Getting Started:
+**Getting Started:**
 
 Go to the folder where you have data files with *.out files and open the python 3 prompt. 
 
