@@ -21,7 +21,7 @@
 
 
 ### Materials sent by Dr. Bhargav Vaidya
-- All the materials and explanations sent by [Dr. Bhargav Vaidya](http://www.iiti.ac.in/people/~bvaidya/index.html) could be found [here](https://github.com/astrofum/na2020/blob/master/PLUTO-howto.md).
+- All the materials and explanations sent by [Dr. Bhargav Vaidya](http://www.iiti.ac.in/people/~bvaidya/index.html) could be found [here](https://github.com/astrofum/na2020/blob/master/PLUTO-howto.md). This link includes a guide on how to install the latest version of PLUTO and pyPLUTO, if you haven't installed PLUTO already. Also, the link to pyPLUTO compatible for python >3.6 is included in this short manual.
 
 
 ### BigBlueButton(BBB)
