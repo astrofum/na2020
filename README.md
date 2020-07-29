@@ -24,7 +24,7 @@
 - All the materials and explanations sent by [Dr. Bhargav Vaidya](http://www.iiti.ac.in/people/~bvaidya/index.html) could be found [here](https://github.com/astrofum/na2020/blob/master/PLUTO-howto.md). This link includes a guide on how to install the latest version of PLUTO and pyPLUTO, if you haven't installed PLUTO already. Also, the link to pyPLUTO compatible for python >3.6 is included in this short manual.
 
 ### Materials sent by Prof. Hanawa
-- All materials provided by [Prof. Hanawa](https://www.cfs.chiba-u.ac.jp/outline/staff/hanawa.html), including the [slides](https://github.com/astrofum/na2020/blob/master/Prof.%20Hanawa%20revised%2020jul29.pdf) and the [notes](https://github.com/astrofum/na2020/blob/master/Prof%20Hanawa%20revised%20grav-mashhad20.pdf) of the workshop ( which contains the exact solution of the homework) are now available on our repository. Also, pleaese check [FFTE: A Fast Fourier Transform Package](http://www.ffte.jp/) which is introduced by Prof. Hanawa and includes a package to compute Discrete Fourier Transform.
+- All materials provided by [Prof. Hanawa](https://www.cfs.chiba-u.ac.jp/outline/staff/hanawa.html), including the [slides](https://github.com/astrofum/na2020/blob/master/Prof.%20Hanawa%20revised%2020jul29.pdf) and the [notes](https://github.com/astrofum/na2020/blob/master/Prof%20Hanawa%20revised%20grav-mashhad20.pdf) of the workshop ( which contains the exact analytical solution of the homework) are now available on our repository. Also, please check [FFTE: A Fast Fourier Transform Package](http://www.ffte.jp/) which is introduced by Prof. Hanawa and includes a package to compute Discrete Fourier Transform.
 
 ### BigBlueButton(BBB)
 
