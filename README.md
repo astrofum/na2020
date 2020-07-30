@@ -23,7 +23,7 @@
 ### Materials sent by Dr. Bhargav Vaidya
 - All the materials and explanations sent by [Dr. Bhargav Vaidya](http://www.iiti.ac.in/people/~bvaidya/index.html) could be found [here](https://github.com/astrofum/na2020/blob/master/PLUTO-howto.md). This link includes a guide on how to install the latest version of PLUTO and pyPLUTO, if you haven't installed PLUTO already. Also, the link to pyPLUTO compatible for python >3.6 is included in this short manual.
 
-- The pdf files provided by Dr. Bhargav Vaidya, including [Lecture_Notes](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20Lecture_Notes.pdf), [PLUTO_code Essentials](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20PLUTO_Essentials.pdf) and [A Practical Introduction to the PLUTO Code](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20PLUTO_WrkShop_Example.pdf) are available now. 
+- The pdf files provided by Dr. Bhargav Vaidya, including [Lecture Notes](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20Lecture_Notes.pdf), [PLUTO code Essentials](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20PLUTO_Essentials.pdf) and [A Practical Introduction to the PLUTO Code](https://github.com/astrofum/na2020/blob/master/Dr.%20Bhargav%20Vaidya%20PLUTO_WrkShop_Example.pdf) are available now. 
 
 
 ### Materials sent by Prof. Hanawa
